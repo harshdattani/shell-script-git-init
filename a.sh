@@ -1,4 +1,4 @@
-# Made By Harsh Dattani
+# Use it, Modify it, Sell it :D
 git init
 git status
 git add *
