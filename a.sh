@@ -8,5 +8,4 @@ echo -n "Enter remote URL"
 echo -n
 read url
 git remote add origin $url
-git pull origin master
-git push -u origin master
+git push -f origin master
